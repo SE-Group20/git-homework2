@@ -16,5 +16,5 @@ This HW is done by Group 20, where the main objective is to get comfortable with
 - [ ] Task 5: Review pull requests 
 
 
-![First screenshot](https://drive.google.com/file/d/1qbxWZRkbBsNpb9KxtFLLMYOtNiSdgKEQ/view?usp=sharing)
-![Second screenshot](https://drive.google.com/file/d/1aUNtW4IL-yO6jP5KVIEN90AvTxPT_g8V/view?usp=sharing)
+![First screenshot](https://github.com/PriyankaKhare07/Image/blob/main/local.png)
+![Second screenshot](https://github.com/PriyankaKhare07/Image/blob/main/remote.png)
