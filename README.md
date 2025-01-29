@@ -12,7 +12,7 @@ This HW is done by Group 20, where the main objective is to get comfortable with
 - [x] Task 1: Complete Git Tutorial 
 - [x] Task 2: Add Screenshots to `README.md`  
 - [x] Task 3: Modify `.html` File  
-- [ ] Task 4: Merge latest changes  
+- [x] Task 4: Merge latest changes  
 - [ ] Task 5: Review pull requests 
 
 ## Git Tutorial
