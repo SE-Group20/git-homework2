@@ -9,12 +9,15 @@
 This HW is done by Group 20, where the main objective is to get comfortable with using various git commands and working with various branches as a team .
 
 ##### ✅ Task List  
-- [ ] Task 1: Complete Git Tutorial 
-- [ ] Task 2: Add Screenshots to `README.md`  
-- [ ] Task 3: Modify `.html` File  
-- [ ] Task 4: Merge latest changes  
+- [x] Task 1: Complete Git Tutorial 
+- [x] Task 2: Add Screenshots to `README.md`  
+- [x] Task 3: Modify `.html` File  
+- [x] Task 4: Merge latest changes  
 - [ ] Task 5: Review pull requests 
 
 
 ![First screenshot](https://github.com/PriyankaKhare07/Image/blob/main/local.png)
 ![Second screenshot](https://github.com/PriyankaKhare07/Image/blob/main/remote.png)
+## Git Tutorial
+![Main](img/kurt_git_main_labeled.png)
+![Remote](img/kurt_git_remote_labeled.png)
