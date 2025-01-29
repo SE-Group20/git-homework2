@@ -8,6 +8,10 @@
 ## Introduction
 This HW is done by Group 20, where the main objective is to get comfortable with using various git commands and working with various branches as a team .
 
+### Screenshots - Udita
+![Git-Ex-hw2-marked](https://github.com/user-attachments/assets/baae60e5-29c8-4174-8b30-f62e9b93c97c)
+![Git-Ex-hw2-marked-2](https://github.com/user-attachments/assets/2615986e-9263-4ce9-9194-4e8d7fc428c1)
+
 ##### ✅ Task List  
 - [ ] Task 1: Complete Git Tutorial 
 - [ ] Task 2: Add Screenshots to `README.md`  
